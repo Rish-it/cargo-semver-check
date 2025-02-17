@@ -16,3 +16,4 @@ mod tests {
         assert!(!check_version("2.0.0", ">=1.0, <2.0"));
     }
 }
+// This function checks if a version satisfies a given version requirement.
